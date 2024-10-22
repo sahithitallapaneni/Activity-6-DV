@@ -1,0 +1,22 @@
+,,,
+,Data,Variable,Discerption
+,Tourism,CustomerID,Unique customer ID
+,Tourism,ProdTaken,"Whether the customer has purchased a package or not (0: No, 1: Yes)"
+,Tourism,Age,Age of customer
+,Tourism,TypeofContact,How customer was contacted (Company Invited or Self Inquiry)
+,Tourism,CityTier,"City tier depends on the development of a city, population, facilities, and living standards. The categories are ordered i.e. Tier 1 > Tier 2 > Tier 3"
+,Tourism,DurationOfPitch,Duration of the pitch by a salesperson to the customer
+,Tourism,Occupation,Occupation of customer
+,Tourism,Gender,Gender of customer
+,Tourism,NumberOfPersonVisiting,Total number of persons planning to take the trip with the customer
+,Tourism,NumberOfFollowups,Total number of follow-ups has been done by sales person after sales pitch
+,Tourism,ProductPitched,Product pitched by the salesperson
+,Tourism,PreferredPropertyStar,Preferred hotel property rating by customer
+,Tourism,MaritalStatus,Marital status of customer
+,Tourism,NumberOfTrips,Average number of trips in a year by customer
+,Tourism,Passport,"The customer has a passport or not (0: No, 1: Yes)"
+,Tourism,PitchSatisfactionScore, Sales pitch satisfaction score
+,Tourism,OwnCar,"Whether the customers own a car or not (0: No, 1: Yes)"
+,Tourism,NumberOfChildrenVisiting,Total number of children with age less than 5 planning to take the trip with the customer
+,Tourism,Designation,Designation of the customer in the current organization
+,Tourism,MonthlyIncome,Gross monthly income of the customer
