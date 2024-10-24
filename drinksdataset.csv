@@ -1,0 +1,21 @@
+drink_item,average_volume,average_sugar,calories_per_serving
+Coke,330,35,140
+Pepsi,330,36,150
+Lemonade,400,25,120
+Iced Tea,450,22,110
+Coffee,250,1,5
+Milkshake,500,50,350
+Orange Juice,300,20,110
+Smoothie,350,40,200
+Wine,150,1,120
+Beer,330,10,150
+Whiskey,50,0,100
+Vodka,50,0,100
+Gin,50,0,100
+Energy Drink,250,30,160
+Latte,300,12,180
+Hot Chocolate,350,30,210
+Water,500,0,0
+Tea,250,0,5
+Milk,250,12,100
+Coconut Water,300,6,60
